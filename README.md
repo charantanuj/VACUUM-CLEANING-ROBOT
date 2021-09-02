@@ -1,0 +1,2 @@
+# VACUUM-CLEANING-ROBOT
+In this problem we can see the working of a vacuum cleaning robot implemented in ROS. The simulation is done in Gazebo and visualisation is done in rviz. We can build the cleaning robot using any differential drive robot. Complete coverage path planning algorithms can be used for the robot to traverse the whole room. There are some static objects placed in room. The cleaning robot needs to make sure that it doesn’t hit the obstacles while cleaning room using sensors and it tries to cover the maximum area in a given environment,
